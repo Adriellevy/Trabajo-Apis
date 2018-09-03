@@ -1,0 +1,21 @@
+.caja {
+    text-overflow: 10px;
+    color: blue;
+}
+
+.infoplanetas {
+	padding: 5px;
+	 margin: 20px;
+	 width: 20em;
+	 border: 1px dashed;
+}
+
+.botones{
+	width: 1em;
+	margin-right: 10px;
+
+}
+.infonaves{
+	margin-left: 21em;
+	margin-bottom: 2em;
+}
